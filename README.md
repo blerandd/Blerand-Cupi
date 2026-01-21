@@ -1,2 +1,43 @@
-# blerandd
-My GitHub profile README
+# Hi, I’m Blerand 👋
+
+👨‍💻 Computer Science & Technology Student (3rd year)  
+🎓 South East European University – Skopje, North Macedonia  
+⚙️ Full-Stack & System-Level Developer in progress  
+
+---
+
+## 🚀 About Me
+
+I’m a motivated CST student with a strong foundation in programming, databases, and operating systems.  
+I enjoy building full-stack applications and working on system-level projects.
+
+🏆 4th place — 9th Cassini Hackathon (North Macedonia)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C
+- C#
+- C++
+- Java
+- Python
+- PHP
+
+**Web**
+- React
+- HTML
+- CSS
+
+**Databases**
+- MySQL
+- PostgreSQL (pgAdmin)
+
+**Core**
+- Operating Systems
+- Data Structures & Algorithms
+
+---
+
+🚀 Always learning, building, and improving
