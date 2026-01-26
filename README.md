@@ -18,6 +18,7 @@ I enjoy building full-stack applications and working on system-level projects.
 ## 🛠️ Tech Stack
 
 **Languages**
+- Swift
 - C
 - C#
 - C++
