@@ -26,10 +26,18 @@ I enjoy building full-stack applications and working on system-level projects.
 - Python
 - PHP
 
-**Web**
+**Backend / Frameworks**
+- ASP.NET Core
+- Laravel
+
+**Web / Frontend**
+- Razor Pages (MVC)
+- Blade Templates
 - React
 - HTML
 - CSS
+- Bootstrap
+- Tailwind CSS
 
 **Databases**
 - MySQL
